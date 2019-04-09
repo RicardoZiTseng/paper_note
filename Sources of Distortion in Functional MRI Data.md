@@ -53,7 +53,7 @@
 
 - 计算完场图后，利用公式(1)对epi影像进行校正
 
-![图一](1.png)
+![图一](./images/Sources_of_Distortion_in_Functional_MRI_Data_1.png)
 
 - 图1b显示了最终的相位图在轴向切片中的分布。图1c显示了未经校正的$64\times64$像素回波平面扫描。图1d显示了EPI图像经过几何校正
 
